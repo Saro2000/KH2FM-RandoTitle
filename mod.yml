@@ -1,0 +1,80 @@
+title: Yet Another Rando Title Screen
+originalAuthor: Saro
+description: Replaces the title screen logo with a randomizer themed version.
+assets:
+- name: remastered\menu\fm\title\-7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title\-7.png
+- name: remastered\menu\fm\title\FR_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title\FR_title_2ld7.png
+- name: remastered\menu\fm\title\GR_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title\GR_title_2ld7.png
+- name: remastered\menu\fm\title\IT_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title\IT_title_2ld7.png
+- name: remastered\menu\fm\title\SP_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title\SP_title_2ld7.png
+- name: remastered\menu\fm\title\UK_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title\UK_title_2ld7.png
+- name: remastered\menu\fm\title\US_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title\US_title_2ld7.png
+- name: remastered\menu\fm\title.2ld\-7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title.2ld\-7.png
+- name: remastered\menu\fm\title.2ld\FR_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title.2ld\FR_title_2ld7.png
+- name: remastered\menu\fm\title.2ld\GR_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title.2ld\GR_title_2ld7.png
+- name: remastered\menu\fm\title.2ld\IT_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title.2ld\IT_title_2ld7.png
+- name: remastered\menu\fm\title.2ld\SP_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title.2ld\SP_title_2ld7.png
+- name: remastered\menu\fm\title.2ld\UK_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title.2ld\UK_title_2ld7.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld7.png
+- name: remastered\menu\fr\title.2ld\FR_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\fr\title.2ld\FR_title_2ld7.png
+- name: remastered\menu\gr\title.2ld\GR_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\gr\title.2ld\GR_title_2ld7.png
+- name: remastered\menu\it\title.2ld\IT_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\it\title.2ld\IT_title_2ld7.png
+- name: remastered\menu\sp\title.2ld\SP_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\sp\title.2ld\SP_title_2ld7.png
+- name: remastered\menu\us\title.2ld\US_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld7.png
